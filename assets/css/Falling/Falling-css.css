@@ -1,0 +1,16 @@
+body{
+  background-color: #FFFFFF;
+  font-family: Signika Negative, Asap, sans-serif;
+  color:white;
+  /*overflow:hidden;*/
+}
+.dot{
+  width:20px;
+  height:20px;
+  position:absolute;
+  /*background: url(https://image.ibb.co/kyUHab/rose.png);*/
+  background: url(../../../assets/img/logo/green-leaf.png);
+  background-size: 100% 100%;
+}
+html, body, #container {width:100%; height:100%; }
+#logo{ left:50%; top:50%; position:absolute; border-radius:10px; }
